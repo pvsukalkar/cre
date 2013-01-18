@@ -1,6 +1,5 @@
 package post;
 
-
 public class Evaluation{  
    public float calculate(String s)  
    {  
